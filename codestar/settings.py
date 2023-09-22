@@ -33,7 +33,7 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-ALLOWED_HOSTS = ['codestars.herokuapp.com', '8000-sabrinastoekly-codestar-4w1oc1zdtyi.ws-eu104.gitpod.io', 'codestars-626aa5eef9ac.herokuapp.com']
+ALLOWED_HOSTS = ['codestars.herokuapp.com', "localhost"]
 
 # Application definition
 
